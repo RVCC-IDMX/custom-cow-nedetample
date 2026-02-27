@@ -4,6 +4,10 @@
     {
       "fileMatch": ["docs/json-playground/test-*.json"],
       "url": "./docs/json-playground/example-schema-full.json"
+    },
+    {
+      "fileMatch": ["fortunes.json"],
+      "url": "./fortunes.schema.json"
     }
   ]
 
