@@ -2,73 +2,80 @@
   {
     "text": "Let it be",
     "song": "Let It Be",
-    "artist": "The Beatles"
+    "artist": "The Beatles",
+    "mood": "calm"
   },
   {
     "text": "I will survive, oh as long as I know how to love",
     "song": "I Will Survive",
-    "artist": "Gloria Gaynor"
+    "artist": "Gloria Gaynor",
+    "mood": "motivational"
   },
   {
     "text": "Don’t stop believin’, hold on to that feelin’",
     "song": "Don’t Stop Believin’",
-    "artist": "Journey"
+    "artist": "Journey",
+    "mood": "motivational"
   },
   {
     "text": "I’m walking on sunshine",
     "song": "Walking on Sunshine",
-    "artist": "Katrina & The Waves"
+    "artist": "Katrina & The Waves",
+    "mood": "happy"
   },
   {
     "text": "I got sunshine on a cloudy day",
     "song": "My Girl",
-    "artist": "The Temptations"
+    "artist": "The Temptations",
+    "mood": "happy"
   },
   {
     "text": "I’m on top of the world",
     "song": "On Top of the World",
-    "artist": "Imagine Dragons"
+    "artist": "Imagine Dragons",
+    "mood": "happy"
   },
   {
     "text": "You can’t always get what you want",
     "song": "You Can’t Always Get What You Want",
-    "artist": "The Rolling Stones"
+    "artist": "The Rolling Stones",
+    "mood": "sad"
   },
   {
     "text": "Every little thing is gonna be alright",
     "song": "Three Little Birds",
-    "artist": "Bob Marley"
+    "artist": "Bob Marley",
+    "mood": "sad"
   },
   {
     "text": "I get knocked down but I get up again, you’re never gonna keep me down",
     "song": "Tubthumping",
-    "artist": "Chumbawamba"
+    "artist": "Chumbawamba",
+    "mood": "motivational"
   },
   {
     "text": "We're just two lost souls swimming in a fish bowl, year after year",
     "song": "Wish You Were Here",
-    "artist": "Pink Floyd"
+    "artist": "Pink Floyd",
+    "mood": "sad"
   },
   {
     "text": "Yeah, everybody leaves, if they get the chance. And this is my chance.",
     "song": "Weird Fishes/Arpeggi",
-    "artist": "Radiohead"
+    "artist": "Radiohead",
+    "mood": "motivational"
   },
   {
     "text": "It's a bitter sweet symphony, this life",
     "song": "Bitter Sweet Symphony",
-    "artist": "The Verve"
+    "artist": "The Verve",
+    "mood": "sad"
   },
   {
     "text": "The sky's your home, there's no limit, you know you gotta find your wings",
     "song": "FIND YOUR WINGS",
-    "artist": "Tyler, the Creator"
-  },
-  {
-    "text": "What good do your words do if they can't understand you?",
-    "song": "...& On",
-    "artist": "Erykah Badu"
+    "artist": "Tyler, the Creator",
+    "mood": "motivational"
   }
-
 
 ]

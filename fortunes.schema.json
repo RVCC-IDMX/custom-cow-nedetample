@@ -17,6 +17,10 @@
       "artist": {
         "type": "string",
         "description": "Who sang this"
+      },
+      "mood": {
+        "type": "string",
+        "description": "The mood of the song"
       }
     },
     "additionalProperties": false
