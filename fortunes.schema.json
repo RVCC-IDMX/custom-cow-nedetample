@@ -14,7 +14,7 @@
         "type": "string",
         "description": "The song title"
       },
-      "author": {
+      "artist": {
         "type": "string",
         "description": "Who sang this"
       }
