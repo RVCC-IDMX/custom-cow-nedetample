@@ -1,6 +1,6 @@
 # AI collaboration summary
 
-**Student name:** [Your name]
+**Student name:** Natalie DeTample
 
 **Assignment:** Custom Cow
 
@@ -14,13 +14,13 @@ Pick ONE decision from this assignment — schema design, upgrade choice, how yo
 
 **What was the decision?**
 
-[Describe it briefly]
+Upgrade choice - Mood-based color
 
 **What alternatives did you consider?**
 
 [What other options existed? Why did you choose this one?]
 
----
+I considered doing mood based eyes, which I did end up doing, but I also wanted to try something new that I hadn't done before so I gave colors a try.
 
 ## 2. AI as thinking partner
 
@@ -30,7 +30,7 @@ Describe a moment where AI helped you think differently — not just wrote code 
 
 [Maybe it suggested an approach you hadn't considered, or asked a clarifying question that changed your direction, or surfaced a problem you would have missed]
 
----
+AI wassuper influencial on my thought process when brainstorming the data for my fortunes. I had only thought of including the song and maybe genre as categories, but then I saw it would be good to have artist. I also then considered that mood might be an easier category to work with than genre for the purpose of upgrading fortunes.
 
 ## 3. Getting unstuck
 
@@ -38,13 +38,13 @@ Something didn't work at some point. How did you figure it out?
 
 **What broke?**
 
-[Describe the error or unexpected behavior]
+The first CIL change for "npm start happy" in my case didn't work. It gave me an error message. 
 
 **Your debugging process:**
 
 [What did you try? console.log? Re-reading the tutorial? Asking AI differently? Reading the error message more carefully?]
 
----
+I reread over AI's code for it, looking to really understand it more than initially since I was debugging now. AI had just misunderstood my categorys so it ended up being an easy fix.
 
 ## 4. What surprised you
 
@@ -52,10 +52,10 @@ What did you learn that you didn't expect? Or what was harder/easier than you an
 
 [This could be about JSON, objects, CLI, AI collaboration, or anything else]
 
----
+The color upgrade was easier than I expected. Of course most of the easiness was due to AI collaboration, but I expected lengthier code. AI had me import "chalk" which is what made the process so simple. It was cool to use a new import.
 
 ## Optional
 
-**Approximate time spent:** [e.g., Session 1: 2 hours, Session 2: 1.5 hours]
+**Approximate time spent:** Session 1: 1.5 hours Session 2: 1 hour
 
-**Upgrade you chose:** [Which one?]
+**Upgrade you chose:** Mood based eyes and color

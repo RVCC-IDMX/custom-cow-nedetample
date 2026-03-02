@@ -72,11 +72,11 @@ Welcome to Week 4! This two-session assignment builds on Fortunate Cow by teachi
 <!-- TODO: Add your sample output here after completing the assignment! -->
 
 ```text
- _______________________________
-< Arrays start at index 0       >
- -------------------------------
+ _________________________
+< I’m walking on sunshine >
+ -------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (^^)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
