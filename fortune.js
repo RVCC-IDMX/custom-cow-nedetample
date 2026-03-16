@@ -20,7 +20,7 @@ if (args.includes("--count")) {
     return acc;
   }, {});
   const total = fortunes.length;
-  console.log("Fortune counts by category:");
+  console.log("Fortune counts by mood:");
   Object.entries(counts).forEach(([mood, count]) => {
     console.log(`  ${mood}: ${count}`);
   });
@@ -31,7 +31,7 @@ if (args.includes("--count")) {
 // Handle --list flag
 if (args.includes("--list")) {
   const categories = [...new Set(fortunes.map(f => f.mood))];
-  console.log("Available categories:");
+  console.log("Available moods:");
   categories.forEach(cat => console.log(`  - ${cat}`));
   process.exit(0);
 }
@@ -48,8 +48,8 @@ if (args.length > 0 && !args[0].startsWith("--")) {
 if (filteredFortunes.length === 0) {
   // Get all unique categories
   const categories = [...new Set(fortunes.map(f => f.mood))];
-  console.log(`No fortunes found for category \"${selectedCategory}\".`);
-  console.log("Available categories:", categories.join(", "));
+  console.log(`No fortunes found for mood \"${selectedCategory}\".`);
+  console.log("Available moods:", categories.join(", "));
   process.exit(1);
 }
 
