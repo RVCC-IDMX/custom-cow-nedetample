@@ -69,8 +69,6 @@ Welcome to Week 4! This two-session assignment builds on Fortunate Cow by teachi
 
 ## Sample output
 
-<!-- TODO: Add your sample output here after completing the assignment! -->
-
 ```text
  _________________________
 < I’m walking on sunshine >
