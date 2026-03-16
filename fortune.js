@@ -76,10 +76,3 @@ const colorFn = moodColor[todaysFortune.mood] || chalk.white;
 
 const cowOutput = cowsay.say({ text: todaysFortune.text, e: eyes });
 console.log(colorFn(cowOutput));
-
-// Error handling for no matching fortunes
-if (filteredFortunes.length === 0) {
-  console.log(`No fortunes found for category "${selectedCategory}".`);
-  console.log("Available categories:", categories.join(", "));
-  process.exit(1);
-}
